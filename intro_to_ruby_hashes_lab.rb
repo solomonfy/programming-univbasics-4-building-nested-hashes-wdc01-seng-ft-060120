@@ -1,13 +1,13 @@
 def base_hash
     {:railroads => {}
   }
-<<<<<<< HEAD
-=======
-  base_hash
->>>>>>> 6311d8f02cde5302500139e1fed8bc3c4b357dc5
+# <<<<<<< HEAD
+# =======
+#   base_hash
+# >>>>>>> 6311d8f02cde5302500139e1fed8bc3c4b357dc5
 
-  # Remember implicit return! We're returning this new Hash _without_ the
-  # keyword "return." Nice and neat.
+#   # Remember implicit return! We're returning this new Hash _without_ the
+#   # keyword "return." Nice and neat.
 
 end
 
